@@ -43,6 +43,8 @@ Allows you to code on the browser and see the results right away.
 
 An online web tutorial website. They also provide a basic reference for this course.
 
+* HTML Tags List - https://www.w3schools.com/tags/default.asp
+
 #### Free Code Camp - (https://www.freecodecamp.org/)
 
 A supportive non-profit community for coders to learn programming and earn certificates for free.
