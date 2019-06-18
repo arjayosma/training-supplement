@@ -1,6 +1,12 @@
 # Training Supplement
 
+This README contains Web development related training supplements. This can help augment your knowledge in web development.
+
 ## Web Development
+
+Creating web pages is very fun and exciting because it gives you the sense of instant gratification.
+
+You just have to pop and open your favorite text editor and your browser and you're already good to go.
 
 ### Software Tools
 ---
@@ -49,6 +55,6 @@ Provides development documentation, information on web standards and Mozilla pro
 
 Google's technical resource site for software development related activities. Contains documentation, tools, discussions and blogs related to, but not limited to, developer products and technologies.
 
-### CSS Tricks - (https://css-tricks.com/)
+#### CSS Tricks - (https://css-tricks.com/)
 
 Tips, tricks and techniques related to CSS.
