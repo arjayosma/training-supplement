@@ -53,6 +53,8 @@ A supportive non-profit community for coders to learn programming and earn certi
 
 Provides development documentation, information on web standards and Mozilla projects.
 
+* HTML Tags List - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
 #### Google Web Fundamentals - (https://developers.google.com/web/)
 
 Google's technical resource site for software development related activities. Contains documentation, tools, discussions and blogs related to, but not limited to, developer products and technologies.
