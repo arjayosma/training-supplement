@@ -44,6 +44,7 @@ Allows you to code on the browser and see the results right away.
 An online web tutorial website. They also provide a basic reference for this course.
 
 * HTML Tags List - https://www.w3schools.com/tags/default.asp
+* CSS Properties List - https://www.w3schools.com/cssref/default.asp
 
 #### Free Code Camp - (https://www.freecodecamp.org/)
 
