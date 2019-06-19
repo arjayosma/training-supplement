@@ -1,3 +1,3 @@
 # Training Supplement
 
-Please refer to the specific branches above for more details.
+## Web Development Training - https://github.com/arjayosma/training-supplement/tree/web-development
