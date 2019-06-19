@@ -83,3 +83,15 @@ A developer friendly theming system for web applications.
 #### Animate CSS - (https://daneden.github.io/animate.css/)
 
 Allows you to show and display CSS animations for your HTML elements.
+
+#### Pexels - (https://pexels.com)
+
+Allows you to search for high quality and high definition images.
+
+#### Unsplash - (https://unsplash.com)
+
+Allows you to search for high quality and high definition images.
+
+#### Flat UI Colors - (https://flatuicolors.com)
+
+Allows you to select modern and hand-picked selection of colors.
