@@ -75,3 +75,11 @@ Example:
 #### Flat UI Colors - (https://flatuicolors.com)
 
 These are handpicked color palettes you can use in your web development journey.
+
+#### Bootstrap - (https://getbootstrap.com)
+
+A developer friendly theming system for web applications.
+
+#### Animate CSS - (https://daneden.github.io/animate.css/)
+
+Allows you to show and display CSS animations for your HTML elements.
