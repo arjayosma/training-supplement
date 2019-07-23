@@ -1,8 +1,8 @@
 # Training Supplement
 
-This README contains Web development related training supplements. This can help augment your knowledge in web development.
+This README contains NodeJS development related training supplements. This can help augment your knowledge in NodeJS development.
 
-## Web Development
+## NodeJS
 
 Creating web pages is very fun and exciting because it gives you the sense of instant gratification.
 
@@ -20,7 +20,7 @@ Don't be afraid to explore, it's part of life.
 * Notepad++ (https://notepad-plus-plus.org/download/v7.7.html)
 * VSCode (https://code.visualstudio.com/Download)
 
-#### VSCode Web Development Plugins (Optional)
+#### VSCode NodeJS Plugins (Optional)
 
 If you opted for **VSCode**, here are some of the plugins that I find particularly useful for this course:
 
@@ -34,6 +34,14 @@ If you opted for **VSCode**, here are some of the plugins that I find particular
 ---
 
 Here are some of the links that you may also find useful for this course:
+
+#### NodeJS Official Website - (https://nodejs.org/)
+
+Download the latest NodeJS version.
+
+#### NodeJS Best Practices - (https://www.codementor.io/mattgoldspink/nodejs-best-practices-du1086jja)
+
+Best practices when it comes to NodeJS development.
 
 #### Codepen - (https://codepen.io)
 
