@@ -41,6 +41,10 @@ Here are some of the links that you may also find useful for this course:
 
 Download the latest NodeJS version.
 
+#### NPM JS - (http://npmjs.com/)
+
+A repository of node modules and packages.
+
 #### NodeJS Best Practices - (https://www.codementor.io/mattgoldspink/nodejs-best-practices-du1086jja)
 
 Best practices when it comes to NodeJS development.
