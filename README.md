@@ -8,6 +8,8 @@ Creating web pages is very fun and exciting because it gives you the sense of in
 
 You just have to pop and open your favorite text editor and your browser and you're already good to go.
 
+But in the case of NodeJS, you have to run your application server and open up your browser.
+
 ### Software Tools
 ---
 
