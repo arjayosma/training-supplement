@@ -17,7 +17,7 @@ My personal favorite is **VSCode** because you can install plugins to make thing
 
 Don't be afraid to explore, it's part of life.
 
-* Notepad++ (https://notepad-plus-plus.org/download/v7.7.html)
+* Notepad++ (https://notepad-plus-plus.org/downloads/v7.8.2/)
 * VSCode (https://code.visualstudio.com/Download)
 
 #### VSCode Web Development Plugins (Optional)
